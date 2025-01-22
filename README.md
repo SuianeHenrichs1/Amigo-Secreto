@@ -24,7 +24,7 @@
   <i>Divirta-se testando suas habilidades de adivinhação! 🎯</i>
 </p>
 
----
+
 
 ## 🛠 Tecnologias
 
@@ -34,7 +34,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - *CSS3* 🎨
 - *JavaScript* 📜
 
----
+
 
 ## ✨ Projeto
 
@@ -46,7 +46,17 @@ Principais funcionalidades:
 3. Exibir quem será o amigo secreto de cada pessoa.
 4. Interface amigável e dinâmica.
 
----
+
+
+## 🏅 Certificação
+
+Fui reconhecida com a seguinte insígnia pelo programa <Hello, ONE!> da Alura + Oracle:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SuianeHenrichs1/Amigo-Secreto/main/assets/ff043987-239b-4661-bdb1-7f4ca6092c48.webp" alt="Insígnia Oracle Next Education" width="300">
+</p>
+
+
 
 ## 🌍 Acesse o Projeto
 
@@ -54,7 +64,7 @@ Você pode acessar o projeto online clicando no link abaixo:
 
 [👉 Jogo Amigo Secreto](https://suianehenrichs1.github.io/Amigo-Secreto/)
 
----
+
 
 ## 🧠 Como Usar
 
