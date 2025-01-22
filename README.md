@@ -65,6 +65,12 @@ Você pode acessar o projeto online clicando no link abaixo:
 [👉 Jogo Amigo Secreto](https://suianehenrichs1.github.io/Amigo-Secreto/)
 
 
+## 📸 Créditos da Imagem
+
+A imagem utilizada neste projeto foi criada por [IRA Design](https://iradesign.io).  
+Agradeço pelo trabalho incrível! ✨💜
+
+
 
 ## 🧠 Como Usar
 
