@@ -1,4 +1,4 @@
-<h1 align="center">Jogo Amigo Secreto! 🎁</h1>
+<h1 align="center">Jogo Amigo Secreto! 🎮</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
