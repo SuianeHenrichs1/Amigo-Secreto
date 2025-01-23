@@ -74,15 +74,7 @@ Também quero agradecer à [Alura](https://github.com/alura-cursos) e à [Oracle
 &nbsp;  
 &nbsp;  
 
-
-## 🧠 Como Usar
-
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/SuianeHenrichs1/Amigo-Secreto.git
-
-# Autora
+# ✨ Autora
 
 | [<img loading="lazy" src="https://github.com/SuianeHenrichs1.png" width=115><br><sub>Suiane Henrichs</sub>](https://github.com/SuianeHenrichs1) |
 | :---: |
