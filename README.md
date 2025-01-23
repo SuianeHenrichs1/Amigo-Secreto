@@ -28,11 +28,11 @@
 
 ## 🛠 Tecnologias
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:  
 
-- *HTML5* 🌐
-- *CSS3* 🎨
-- *JavaScript* 📜
+📚 HTML5  
+🎨 CSS3  
+📜 JavaScript  
 
 
 
@@ -40,13 +40,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto consiste em um jogo interativo de **Amigo Secreto**, onde os usuários podem adicionar os nomes dos amigos e sortear quem ficará com quem. O jogo permite que você adicione amigos, faça sorteios e visualize os resultados de forma dinâmica.
 
-Principais funcionalidades:
+🎯 Principais funcionalidades:
 1. Adicionar amigos ao jogo.
 2. Sortear aleatoriamente os amigos secretos.
 3. Exibir quem será o amigo secreto de cada pessoa.
 4. Interface amigável e dinâmica.
-
-
+&nbsp;  
+&nbsp;
 
 ## 🏅 Certificação
 
@@ -57,13 +57,13 @@ Fui reconhecida com a seguinte insígnia pelo programa <Hello, ONE!> da Alura + 
 </p>
 
 
-
 ## 🌍 Acesse o Projeto
 
 Você pode acessar o projeto online clicando no link abaixo:
 
 👉 [Jogo Amigo Secreto](https://suianehenrichs1.github.io/Amigo-Secreto/)
-
+&nbsp;  
+&nbsp;  
 
 ## 💜 Créditos e Agradecimentos
 
@@ -71,6 +71,8 @@ A imagem utilizada neste projeto foi criada por [IRA Design](https://iradesign.i
 Agradeço pelo trabalho incrível! ✨💛  
 
 Também quero agradecer à [Alura](https://github.com/alura-cursos) e à [Oracle](https://github.com/oracle) pelo conhecimento compartilhado e pelas oportunidades proporcionadas por meio do programa **<Hello, ONE!>**.
+&nbsp;  
+&nbsp;  
 
 
 ## 🧠 Como Usar
