@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img alt="Demonstração do projeto" src="https://imgur.com/m7UDFiT.png" width="600px">
+  <img src="https://github.com/SuianeHenrichs1/Amigo-Secreto/blob/main/assets/alura-challeng.gif" alt="Insígnia Oracle Next Education" width="900">
 </p>
 
 <p align="center">
@@ -62,14 +62,15 @@ Fui reconhecida com a seguinte insígnia pelo programa <Hello, ONE!> da Alura + 
 
 Você pode acessar o projeto online clicando no link abaixo:
 
-[👉 Jogo Amigo Secreto](https://suianehenrichs1.github.io/Amigo-Secreto/)
+👉 [Jogo Amigo Secreto](https://suianehenrichs1.github.io/Amigo-Secreto/)
 
 
-## 📸 Créditos da Imagem
+## 💜 Créditos e Agradecimentos
 
 A imagem utilizada neste projeto foi criada por [IRA Design](https://iradesign.io).  
-Agradeço pelo trabalho incrível! ✨💜
+Agradeço pelo trabalho incrível! ✨💛  
 
+Também quero agradecer à [Alura](https://github.com/alura-cursos) e à [Oracle](https://github.com/oracle) pelo conhecimento compartilhado e pelas oportunidades proporcionadas por meio do programa **<Hello, ONE!>**.
 
 
 ## 🧠 Como Usar
@@ -79,5 +80,9 @@ Agradeço pelo trabalho incrível! ✨💜
    ```bash
    git clone https://github.com/SuianeHenrichs1/Amigo-Secreto.git
 
+# Autora
+
+| [<img loading="lazy" src="https://github.com/SuianeHenrichs1.png" width=115><br><sub>Suiane Henrichs</sub>](https://github.com/SuianeHenrichs1) |
+| :---: |
 
 
